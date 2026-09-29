@@ -1,4 +1,4 @@
-# Praktikum OOP - Sistem Perbankan Sederhana 🏦
+# Sistem Perbankan Sederhana 🏦
 
 Proyek ini adalah implementasi sistem perbankan sederhana berbasis Pemrograman Berorientasi Objek (OOP) menggunakan Java. Program ini dirancang untuk mendemonstrasikan relasi antar kelas (*Composition* dan *Aggregation*), penggunaan *Array* objek statis, serta enkapsulasi logika bisnis.
 
